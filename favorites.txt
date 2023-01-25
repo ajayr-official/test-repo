@@ -1,0 +1,22 @@
+
+favorites:-
+
+google chrome
+firefox
+file manager
+sublime
+android studio
+youtube music (PWA)
+Teams
+Office (PWA)
+one drive(PWA)
+vscode
+screenshot
+putty
+dbvis
+slack
+terminal
+mysql workbench
+WPS
+VLC
+
